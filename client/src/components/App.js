@@ -6,7 +6,7 @@ import Header from './Header';
 import Landing from './Landing';
 
 import Dashboard from './Dashboard';
-const SurveyNew = () => <h2>SurveyNew</h2>;
+import SurveyNew from './surveys/SurveyNew';
 class App extends Component {
   componentDidMount() {
     this.props.fetchUser(); 
@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div className="container">
         <BrowserRouter>
-          <div>
+          <div className='container'>
             <Header />
             <Route exact path="/" component={Landing} />
             <Route exact path="/surveys" component={Dashboard} />
