@@ -53,5 +53,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Flowchart
 
+<center>
+<img src="https://user-images.githubusercontent.com/32977998/195184811-a3bd90a8-252e-4767-bcfe-3546b9e2ec00.png"  width="300" height="600">
+</center>
 ![image](https://user-images.githubusercontent.com/32977998/195184811-a3bd90a8-252e-4767-bcfe-3546b9e2ec00.png)
 
