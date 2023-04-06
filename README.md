@@ -2,6 +2,12 @@
 
 This project is a full-stack web application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users login through `Google Oauth` and  distribute questionnaires and receive Payment through `Stripe`.
 
+## Flowchart
+
+<center>
+<img src="https://user-images.githubusercontent.com/32977998/195184811-a3bd90a8-252e-4767-bcfe-3546b9e2ec00.png"  width="450" height="600">
+</center>
+
 ## Prerequisites
 
 Before running this project, you will need to have the following installed:
@@ -51,10 +57,6 @@ Contributions are always welcome! If you have any suggestions or bug reports, pl
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Flowchart
 
-<center>
-<img src="https://user-images.githubusercontent.com/32977998/195184811-a3bd90a8-252e-4767-bcfe-3546b9e2ec00.png"  width="400" height="600">
-</center>
 
 
